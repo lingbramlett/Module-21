@@ -26,4 +26,4 @@ Number of Layers: Tried multiple variations
 Neurons: Experimented with different neuron counts
 Activation Functions: Tested ReLU and other activations
 
-During this month my computer stopped being able to even open up the internet so it struggled to get the h5 file.
+
